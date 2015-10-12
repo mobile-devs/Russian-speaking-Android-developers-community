@@ -1,4 +1,4 @@
-# Russian-speaking-Android-developers-community
+# Russian speaking Android developers community
 
 Google+: https://plus.google.com/communities/111418662223575428107
 
