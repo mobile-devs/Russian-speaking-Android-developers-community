@@ -13,7 +13,7 @@
 * в Facebook: https://www.facebook.com/groups/440523419486938/
 * в VK: https://vk.com/androiddeveloperscommunity
 
-##СПИСОК ЧАТОВ:
+###СПИСОК ЧАТОВ:
 * основной (вопросы-ответы по Android разработке): https://gitter.im/rus-speaking/android
 * оффтоп, курилка: https://gitter.im/rus-speaking/android-off-topic
 * вакансии и предложения для Android разработчиков: https://gitter.im/rus-speaking/android-job
