@@ -5,8 +5,10 @@
 * Вопросы задаём только в соответствующих ветках чатов в Gitter (список всех чатов находится ниже)
 * Публикуемые вами в чатах и соцсетях сообщества материалы должны касаться исключительно разработки под Android.
 * Предложения о работе публикуем только в чате для вакансий и предложений: https://gitter.im/rus-speaking/android-job
-* Мат в основном канале запрещен, баны от суток и более.
-* Спам, оскорбления, агрессия, оффтоп недоспустимы, баны от суток до полных банов.
+* Мат в основном канале запрещен.
+* Спам, оскорбления, агрессия, а также публикации связанные с политикой, порноиндустрией и экстримизмом недоспустимы.
+* Для оффтопа существует отдельный канал: https://gitter.im/rus-speaking/android-off-topic
+* За нарушения вышеуказанных правил - баны и блокировки от суток и более.
 
 ###Страницы в соцсетях (для публикации статей и материалов):
 * в Google+: https://plus.google.com/communities/111418662223575428107
@@ -15,7 +17,6 @@
 
 ###СПИСОК ЧАТОВ:
 * основной (вопросы-ответы по Android разработке): https://gitter.im/rus-speaking/android
-* оффтоп, курилка: https://gitter.im/rus-speaking/android-off-topic
 * вакансии и предложения для Android разработчиков: https://gitter.im/rus-speaking/android-job
 * IDE, плагины, системы сборки и полезные сервисы для Android разработки: https://gitter.im/rus-speaking/android-tools
 * архитектура Android приложений, паттерны проектирования: https://gitter.im/rus-speaking/android-patterns
@@ -23,6 +24,7 @@
 * RxJava: https://gitter.im/rus-speaking/android-rx
 * Kotlin: https://gitter.im/rus-speaking/android-kotlin
 * публикация, маркетинг, монетизация приложений (а также фидбек для собственных приложений): https://gitter.im/rus-speaking/android-apps
+* оффтоп, курилка: https://gitter.im/rus-speaking/android-off-topic
 * дополнительный чат по Xamarin-технологиям: https://gitter.im/rus-speaking/android-xamarin
  
 ###Админы и модераторы: 
