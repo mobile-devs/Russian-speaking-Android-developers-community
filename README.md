@@ -25,8 +25,8 @@
 * оффтоп, курилка: https://gitter.im/rus-speaking/android-off-topic
 + дополнительный чат для разработчиков использующих Xamarin-технологии: https://gitter.im/rus-speaking/android-xamarin
 
-###Страницы сообщества в соцсетях, где мы делимся друг с другом полезными ссылками, статьями и материалами:
-* Google+: https://plus.google.com/communities/111418662223575428107 - **наш основной склад ссылок с разделами**
+###Страницы сообщества в соцсетях:
+* Google+: https://plus.google.com/communities/111418662223575428107 - **наш основной склад полезных ссылок с различными разделами, выкладывайте, не стесьняйтесь**
 * Facebook: https://www.facebook.com/groups/440523419486938/
 * VK: https://vk.com/androiddeveloperscommunity
 * LinkedIn: https://www.linkedin.com/groups/8452144
