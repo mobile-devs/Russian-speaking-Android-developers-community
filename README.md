@@ -2,7 +2,7 @@
 ## Русскоязычное сообщество Android разработчиков
 ![Teaser](androiddevelopers.jpg)
 
-###Страницы сообщества в соцсетях (делимся полезными статьями и материалами):
+Страницы сообщества в соцсетях (делимся полезными статьями и материалами):
 * в Google+: https://plus.google.com/communities/111418662223575428107 (склад)
 * в Facebook: https://www.facebook.com/groups/440523419486938/
 * в VK: https://vk.com/androiddeveloperscommunity
