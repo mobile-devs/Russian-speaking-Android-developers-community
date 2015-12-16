@@ -23,7 +23,7 @@
 * обсуждение вопросов связанных с публикацией, маркетингом, монетизацией приложений, а также получением фидбека для ваших собственных разработок: https://gitter.im/rus-speaking/android-apps
 * для публикации вакансий и предложений для Android разработчиков: https://gitter.im/rus-speaking/android-job
 * оффтоп, курилка: https://gitter.im/rus-speaking/android-off-topic
-+ дополнительный чат для разработчиков использующих Xamarin-технологии: https://gitter.im/rus-speaking/android-xamarin
++ *дополнительный чат для разработчиков использующих Xamarin-технологии*: https://gitter.im/rus-speaking/android-xamarin
 
 ###Страницы сообщества в соцсетях:
 * Google+: https://plus.google.com/communities/111418662223575428107 - **наш основной склад полезных ссылок с различными разделами, выкладывайте, не стесьняйтесь**
