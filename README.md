@@ -1,5 +1,5 @@
 # Russian speaking Android developers community
-# Русскоязычное сообщество Android разработчиков
+## Русскоязычное сообщество Android разработчиков
 
 ##Правила:
 * Вопросы задаваём только в соответствующих ветках чатов в Gitter (список всех чатов находится ниже)
@@ -25,4 +25,5 @@
 * публикация, маркетинг, монетизация приложений (а также фидбек для собственных приложений): https://gitter.im/rus-speaking/android-apps
 * дополнительный чат по Xamarin-технологиям: https://gitter.im/rus-speaking/android-xamarin
  
-###Админы и модераторы: @atetc, @nexus700120, @BOOMik, @ArturVasilov, @artem-zinnatullin, @takigava, @TheRishka, @dimasolovyev, @retor
+###Админы и модераторы: 
+@atetc, @nexus700120, @BOOMik, @ArturVasilov, @artem-zinnatullin, @takigava, @TheRishka, @dimasolovyev, @retor
