@@ -1,5 +1,6 @@
 # Russian speaking Android developers community
 ## Русскоязычное сообщество Android разработчиков
+![Teaser](androiddevelopers.jpg)
 
 ##Правила:
 * Вопросы задаём только в соответствующих ветках чатов в Gitter (список всех чатов находится ниже)
