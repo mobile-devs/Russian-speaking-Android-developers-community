@@ -10,18 +10,18 @@
 * Предложения о работе публикуем только в чате для вакансий и предложений: https://gitter.im/rus-speaking/android-job
 * Мат в основном чате и чате для публикации вакансий запрещен.
 * Оффтоп в основном чате и чате для публикации ваканий запрещен. Для оффтопа действует отдельный чат: https://gitter.im/rus-speaking/android-off-topic
-* Спам, оскорбления, агрессия, а также публикации, связанные с политикой, порноиндустрией и экстримизмом недопустимы.
+* Спам, оскорбления, агрессия, а также публикации, связанные с политикой, порноиндустрией и экстремизмом недопустимы.
 * За нарушения вышеуказанных правил гарантированы баны и блокировки от суток и более.
 
 ###Список чатов:
-* **основной чат** по вопросам и ответам по Android разработке: https://gitter.im/rus-speaking/android
-* IDE, плагины, системы сборки, CI и полезные программы/сервисы для Android разработки: https://gitter.im/rus-speaking/android-tools
+* **основной чат** в формате вопрос-ответ по Android разработке: https://gitter.im/rus-speaking/android
+* OS, IDE, плагины, системы сборки, CI и полезный софт/сервисы для Android разработчиков: https://gitter.im/rus-speaking/android-tools
 * обсуждение архитектуры Android приложений, паттернов проектирования: https://gitter.im/rus-speaking/android-patterns
-* тестирование в Android: https://gitter.im/rus-speaking/android-testing
+* тестирование приложений: https://gitter.im/rus-speaking/android-testing
 * RxJava: https://gitter.im/rus-speaking/android-rx
 * Kotlin: https://gitter.im/rus-speaking/android-kotlin
-* обсуждение приложений: фичи, дизайн, публикация, маркетинг, монетизация, а также фидбек собственных разработок: https://gitter.im/rus-speaking/android-apps
-* для публикации вакансий и предложений для Android разработчиков: https://gitter.im/rus-speaking/android-job
+* обсуждение приложений: фичи, дизайн, публикация, маркетинг, монетизация, а также фидбек для ваших собственных разработок: https://gitter.im/rus-speaking/android-apps
+* публикация вакансий и предложений для Android разработчиков: https://gitter.im/rus-speaking/android-job
 * оффтоп, курилка: https://gitter.im/rus-speaking/android-off-topic
 + *дополнительный чат для разработчиков использующих Xamarin-технологии*: https://gitter.im/rus-speaking/android-xamarin
 
