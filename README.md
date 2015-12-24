@@ -14,7 +14,7 @@
 * За нарушения вышеуказанных правил гарантированы баны и блокировки от суток и более.
 
 ###Список чатов:
-* **основной чат** в формате вопрос-ответ по Android разработке: https://gitter.im/rus-speaking/android
+* **основной чат** по Android разработке в формате вопрос-ответ: https://gitter.im/rus-speaking/android
 * OS, IDE, плагины, системы сборки, CI и полезный софт/сервисы для Android разработчиков: https://gitter.im/rus-speaking/android-tools
 * обсуждение архитектуры Android приложений, паттернов проектирования: https://gitter.im/rus-speaking/android-patterns
 * тестирование приложений: https://gitter.im/rus-speaking/android-testing
