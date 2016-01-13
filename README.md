@@ -22,7 +22,7 @@
 * Kotlin: https://gitter.im/rus-speaking/android-kotlin
 * обсуждение приложений: фичи, дизайн, публикация, маркетинг, монетизация, а также фидбек для ваших собственных разработок: https://gitter.im/rus-speaking/android-apps
 * публикация вакансий и предложений для Android разработчиков: https://gitter.im/rus-speaking/android-job
-* оффтоп, курилка: https://gitter.im/rus-speaking/android-off-topic
+* оффтоп, курилка: https://gitter.im/rus-speaking/android-off-topic (не только в контексте разработки под Android)
 + *дополнительный чат для разработчиков использующих Xamarin-технологии*: https://gitter.im/rus-speaking/android-xamarin
 
 ###Страницы сообщества в соцсетях:
