@@ -22,6 +22,7 @@
 * RxJava: https://gitter.im/rus-speaking/android-rx
 * Kotlin: https://gitter.im/rus-speaking/android-kotlin
 * обсуждение приложений: фичи, дизайн, публикация, маркетинг, монетизация, а также фидбек для ваших собственных разработок: https://gitter.im/rus-speaking/android-apps
+* обсуждение конференций, мероприятий, встреч: https://gitter.im/rus-speaking/android-events
 * публикация вакансий и предложений для Android разработчиков: https://gitter.im/rus-speaking/android-job
 * оффтоп, курилка: https://gitter.im/rus-speaking/android-off-topic (не только в контексте разработки под Android)
 + *дополнительный чат для разработчиков использующих Xamarin-технологии*: https://gitter.im/rus-speaking/android-xamarin
@@ -33,4 +34,4 @@
 * LinkedIn: https://www.linkedin.com/groups/8452144
  
 ###Админы и модераторы: 
-@atetc, @BOOMik, @nexus700120, @ArturVasilov, @artem-zinnatullin, @takigava, @TheRishka, @dimasolovyev, @retor
+@atetc, @BOOMik, @nexus700120, @ArturVasilov, @artem-zinnatullin, @takigava, @TheRishka, @dimasolovyev, @retor, @Iamtodor
