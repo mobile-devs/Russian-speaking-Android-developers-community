@@ -21,7 +21,7 @@
 * тестирование приложений: https://gitter.im/rus-speaking/android-testing
 * RxJava: https://gitter.im/rus-speaking/android-rx
 * Kotlin: https://gitter.im/rus-speaking/android-kotlin
-* обсуждение приложений: фичи, дизайн, публикация, маркетинг, монетизация, а также фидбек для ваших собственных разработок: https://gitter.im/rus-speaking/android-apps
+* обсуждение приложений: фичи, дизайн, публикация, маркетинг, монетизация, аналитика + фидбек ваших собственных разработок: https://gitter.im/rus-speaking/android-apps
 * обсуждение конференций, мероприятий, встреч: https://gitter.im/rus-speaking/android-events
 * публикация вакансий и предложений для Android разработчиков: https://gitter.im/rus-speaking/android-job
 * оффтоп, курилка: https://gitter.im/rus-speaking/android-off-topic (не только в контексте разработки под Android)
