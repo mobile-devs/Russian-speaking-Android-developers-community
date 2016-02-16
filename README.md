@@ -16,7 +16,7 @@
 
 ###Список чатов:
 * **основной чат** по Android разработке в формате вопрос-ответ: https://gitter.im/rus-speaking/android
-* OS, IDE, плагины, системы контроля версий, сборки, CI, бекенд и другой полезный софт/сервисы для Android разработчиков: https://gitter.im/rus-speaking/android-tools
+* OS, IDE, плагины, эмулторы, системы контроля версий, сборки, CI, бекенд и другой полезный софт/сервисы для Android разработчиков: https://gitter.im/rus-speaking/android-tools
 * обсуждение архитектуры Android приложений, паттернов проектирования: https://gitter.im/rus-speaking/android-patterns
 * тестирование приложений: https://gitter.im/rus-speaking/android-testing
 * RxJava: https://gitter.im/rus-speaking/android-rx
