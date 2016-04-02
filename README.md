@@ -28,10 +28,13 @@
 + *дополнительный чат для разработчиков использующих Xamarin-технологии*: https://gitter.im/rus-speaking/android-xamarin
 
 ###Страницы сообщества в соцсетях:
-* Google+: https://plus.google.com/communities/111418662223575428107 - **это наш основной "склад" полезных ссылок с различными разделами. Заранее спасибо за интересные посты!**
+* Google+: https://plus.google.com/communities/111418662223575428107
 * Facebook: https://www.facebook.com/groups/440523419486938/
 * VK: https://vk.com/androiddeveloperscommunity
 * LinkedIn: https://www.linkedin.com/groups/8452144
+
+###Другие проекты сообщества:
+* Новостной канал в Telegram: https://telegram.me/AndroidResId
  
 ###Админы и модераторы: 
 @atetc, @BOOMik, @nexus700120, @ArturVasilov, @artem-zinnatullin, @takigava, @TheRishka, @dimasolovyev, @retor, @Iamtodor
