@@ -25,6 +25,7 @@
 * обсуждение конференций, мероприятий, встреч: https://gitter.im/rus-speaking/android-events
 * публикация вакансий и предложений для Android разработчиков: https://gitter.im/rus-speaking/android-job
 * оффтоп, курилка: https://gitter.im/rus-speaking/android-off-topic (не только в контексте разработки под Android)
+
 ##Дополнительно:
 * чат для разработчиков использующих Xamarin-технологии: https://gitter.im/rus-speaking/android-xamarin
 * Новостной канал в Telegram: https://telegram.me/AndroidResId
