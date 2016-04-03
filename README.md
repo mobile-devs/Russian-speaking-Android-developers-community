@@ -25,16 +25,15 @@
 * обсуждение конференций, мероприятий, встреч: https://gitter.im/rus-speaking/android-events
 * публикация вакансий и предложений для Android разработчиков: https://gitter.im/rus-speaking/android-job
 * оффтоп, курилка: https://gitter.im/rus-speaking/android-off-topic (не только в контексте разработки под Android)
-+ *дополнительный чат для разработчиков использующих Xamarin-технологии*: https://gitter.im/rus-speaking/android-xamarin
+##Дополнительно:
+* чат для разработчиков использующих Xamarin-технологии: https://gitter.im/rus-speaking/android-xamarin
+* Новостной канал в Telegram: https://telegram.me/AndroidResId
 
 ###Страницы сообщества в соцсетях:
 * Google+: https://plus.google.com/communities/111418662223575428107
 * Facebook: https://www.facebook.com/groups/440523419486938/
 * VK: https://vk.com/androiddeveloperscommunity
 * LinkedIn: https://www.linkedin.com/groups/8452144
-
-###Другие проекты сообщества:
-* Новостной канал в Telegram: https://telegram.me/AndroidResId
  
 ###Админы и модераторы: 
 @atetc, @BOOMik, @nexus700120, @ArturVasilov, @artem-zinnatullin, @takigava, @TheRishka, @dimasolovyev, @retor, @Iamtodor
