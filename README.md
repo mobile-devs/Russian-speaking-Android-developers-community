@@ -38,4 +38,4 @@
 * LinkedIn: https://www.linkedin.com/groups/8452144
  
 ###Админы и модераторы: 
-@atetc, @BOOMik, @nexus700120, @ArturVasilov, @artem-zinnatullin, @takigava, @TheRishka, @dimasolovyev, @retor, @Iamtodor, @hondrus
+@atetc, @BOOMik, @nexus700120, @ArturVasilov, @artem-zinnatullin, @takigava, @TheRishka, @dimasolovyev, @retor, @Iamtodor, @hondrus, @ZhrebtsovAlexandr
